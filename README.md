@@ -1,20 +1,17 @@
 <h1 align="center">Hey there, I'm Mohit Singh 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer;Psycho+Coder+%F0%9F%94%A5;Always+Learning+%F0%9F%93%9A;Love+Clean+Code+%F0%9F%91%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer;Always+Learning+%F0%9F%93%9A;alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently diving deep into backend development  
-- 💡 Focused on JavaScript, Java & system design  
-- 🧠 Love building things from scratch & solving real-world problems  
-- 👑 Leadership mindset + team player  
-- 🔥 "Psycho" coder mode always ON when debugging  
-- 🕸️ Currently learning: DevOps + Cloud Basics
-
+- 🔭 Currently diving deep into myself!
+- 💡 Focused on my goals 
+- 🧠 Love building things from scratch & solving real-world problems   
+- 🔥 "Psycho" coder mode always ON when debugging(with chatgpt)
 ---
 
 ### 🧰 Tech Stack

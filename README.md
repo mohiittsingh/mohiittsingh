@@ -1,4 +1,4 @@
-# <div align="center">🙏 Namaste, I'm Mohit Singh</div>
+# <div align="center"> Mohit Singh</div>
 
 <div align="center">
   

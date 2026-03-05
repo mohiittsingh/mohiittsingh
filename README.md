@@ -1,8 +1,8 @@
-# <div align="center">Mohit Singh</div>
+# Hey, I'm Mohit Singh 👋
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2C3E50&center=true&vCenter=true&width=400&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2C3E50&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;CS+Student+%40+Gurgaon;Building+things+that+(mostly)+work)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,15 +10,19 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## About Me
+## Who's this guy?
 
-I'm a Computer Science student from Gurgaon, India, with a passion for learning and exploring new technologies. Currently focused on full-stack development with React, Node.js, and databases, while also keeping an eye on other areas of computer science that spark my curiosity.
+CS student from Gurgaon, India. I spend my time building full-stack apps, occasionally breaking them, and then fixing them — in that exact order. Currently deep into React, Node.js, and databases. Also keeping tabs on whatever shiny new thing the CS world throws my way.
+
+When the code works on the first try, I question reality. When it doesn't, I question my career choices. It balances out.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ## Tech Stack
+
+*Things I use to build stuff (and occasionally fight with)*
 
 <div align="center">
 
@@ -56,6 +60,8 @@ I'm a Computer Science student from Gurgaon, India, with a passion for learning 
 
 ## GitHub Stats
 
+*The numbers don't lie (but the commit messages sometimes do)*
+
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohiittsingh&show_icons=true&theme=radical&hide_border=false" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohiittsingh&theme=radical&hide_border=false" />
@@ -69,7 +75,9 @@ I'm a Computer Science student from Gurgaon, India, with a passion for learning 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## Connect
+## Let's Connect
+
+*I don't bite. Slow email replies, maybe. But no biting.*
 
 <div align="center">
 
@@ -88,5 +96,7 @@ I'm a Computer Science student from Gurgaon, India, with a passion for learning 
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=mohiittsingh&color=blue&style=for-the-badge)
+
+*yes, that counter includes me checking my own profile*
 
 </div>

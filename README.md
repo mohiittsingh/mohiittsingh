@@ -1,4 +1,4 @@
-# Hey, I'm Mohit Singh 👋
+#  I'm Mohit Singh 👋
 
 <div align="center">
 
